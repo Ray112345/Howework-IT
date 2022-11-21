@@ -1,0 +1,50 @@
+.h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    position: relative;
+    text-align: center;
+}
+
+.h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+
+.nav {
+    margin-left: 150px;
+    overflow: hidden;
+    position: relative;
+}
+
+.nav a {
+    display: inline;
+    width: 20px;
+    padding: 20px;
+    margin: 5pt;
+    background-color: azure;
+    border: 1px dashed black;
+    text-align: center;
+}
+
+.bar {
+    height: 100%;
+    width: 150px;
+    position: absolute;
+    padding-top: 40px;
+    left: 0;
+    top: 0;
+    background-color: aliceblue;   
+}
+
+.article {
+    margin-left: 150px;
+}
+
+.footer {
+    margin-left: 150px;
+}

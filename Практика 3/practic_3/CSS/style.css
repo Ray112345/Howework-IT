@@ -1,0 +1,57 @@
+.h1 {
+    font-family: Times, Times New Roman, Georgia, serif;
+    position: relative;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+    color: rgb(255, 51, 0);
+}
+
+.h2 {
+    font-family: cursive;
+    position: relative;
+    text-align: center;
+}
+
+.h3 {
+    font-family: sans-serif;
+}
+
+.h4 {
+    margin-left: 150px;
+}
+
+.nav {
+    margin-left: 150px;
+    overflow: hidden;
+    position: relative;
+}
+
+.nav a {
+    display: inline;
+    width: 18px;
+    padding: 16px;
+    background-color: rgb(235, 155, 5);
+    text-align: center;
+}
+
+.reklama {
+    height: 100%;
+    width: 140px;
+    position: absolute;
+    padding-top: 35px;
+    left: 0;
+    top: 0;
+    background-color: rgb(255, 254, 254);   
+}
+
+.article {
+    margin-left: 150px;
+}
+
+.footer {
+    margin-left: 150px;
+}
+
+.site_footer {
+    margin-left: 150px;
+}
